@@ -1,0 +1,5 @@
+{
+    "name": "client-hosted-server",
+    "version": "0.0.1",
+    "proxy":"localhost:3001"
+}

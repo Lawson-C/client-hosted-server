@@ -1,3 +1,4 @@
 /node_modules
+/client/node_modules
 
 /db/client-manager.sqlite3
