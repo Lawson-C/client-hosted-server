@@ -2,7 +2,7 @@ const express = require("express");
 const fs = require("fs");
 const sqlite = require("sql.js");
 
-const filename = "db/middle-man.sqlite3";
+const filename = "db/client-manager.sqlite3";
 
 let db;
 
